@@ -9,7 +9,7 @@ https://etherscan.io/tokens
 
 https://bscsscan.com/tokens
 
-**Date of snapshot: Jan 16, 2023**
+**Date of snapshot: August 15, 2023**
 
 Chargerwallet SDK PopularTokens token list
 
